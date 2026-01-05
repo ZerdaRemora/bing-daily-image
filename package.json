@@ -1,7 +1,7 @@
 {
   "name": "bing-daily-image",
   "version": "1.0.0",
-  "description": "",
+  "description": "Download daily Bing background images",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js",
@@ -9,7 +9,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "request": "^2.88.0"
-  }
+  "dependencies": {}
 }
